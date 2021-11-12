@@ -1,0 +1,50 @@
+/Users/lbq/Projects/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/lbq/Projects/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/lbq/Projects/MovieShop/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/lbq/Projects/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/lbq/Projects/MovieShop/Infrastructure/bin/Debug/net5.0/ApplicationCore.dll
+/Users/lbq/Projects/MovieShop/Infrastructure/bin/Debug/net5.0/ApplicationCore.pdb
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/lbq/Projects/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/ApplicationCore.dll
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/ApplicationCore.pdb
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.runtimeconfig.json
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/bin/Debug/net5.0/Infrastructure.runtimeconfig.dev.json
+C:/Users/Ty/source/repos/MovieShop/Infrastructure/obj/Debug/net5.0/Infrastructure.genruntimeconfig.cache
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/Infrastructure.deps.json
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/Infrastructure.runtimeconfig.json
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/Infrastructure.runtimeconfig.dev.json
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/Infrastructure.dll
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/ref/Infrastructure.dll
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/Infrastructure.pdb
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/ApplicationCore.dll
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/bin/Debug/net5.0/ApplicationCore.pdb
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.AssemblyInfo.cs
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.dll
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/ref/Infrastructure.dll
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.pdb
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.genruntimeconfig.cache
+/Users/lbq/RiderProjects/MovieShop 2/Infrastructure/obj/Debug/net5.0/Infrastructure.csproj.CopyComplete

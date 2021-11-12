@@ -1,0 +1,75 @@
+﻿@using System.Globalization
+@model ApplicationCore.Models.MovieDetailsResponseModel
+
+
+    <div class="container-fluid bg-dark" style="background-image: url(@Model.BackdropUrl)">
+        <div class="row">
+            <div class="col-4">
+                <div class="row justify-content-end">
+                    <div class="col-6">
+                        <img src="@Model.PosterUrl" class="img-fluid" alt="@Model.Title" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <h2>@Model.Title</h2>
+                <span style="color:dimgrey">@Model.Tagline</span>
+                <div class="container-fluid" style="color:gray;">
+                    <div class="row">
+                        <div class="col-6">
+                            <h5>@Model.RunTime m | @Model.ReleaseDate.Value.Year</h5>
+                        </div>
+                        <div class="col-6">
+                            @foreach (var genre in Model.Genres)
+                            {
+                                <a asp-controller="Genres" asp-action="Details" asp-route-id="@genre.Id" class="badge badge-secondary">@genre.Name</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <span class="badge badge-warning">@Model.Rating.Value.ToString("0.00")</span>
+                <p>@Model.Overview</p>
+            </div>
+            <div class="col-2">
+                <a  class="btn btn-outline-dark btn-light btn-lg btn-block btn-sm">
+                    REVIEW
+                </a>
+                <a class="btn btn-outline-dark btn-light btn-lg btn-block btn-sm" asp-route-id="@Model.Id" asp-controller="User" asp-action="BuyMovie">
+                    BUY @Model.Price
+                </a>
+            </div>
+        </div>
+    </div>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-4">
+            <div class="card" style="width: 25rem;">
+                <div class="card-header">
+                    MOVIE FACTS
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Release Date <span class="badge badge-dark">@Model.ReleaseDate.Value.ToString("MM/dd/yyyy")</span></li>
+                    <li class="list-group-item">Run Time <span class="badge badge-dark">@Model.RunTime m</span></li>
+                    <li class="list-group-item">Box Office <span class="badge badge-dark">@NumberFormatInfo.CurrentInfo.CurrencySymbol @Model.Revenue?.ToString("$ #,0.00;($ #,0.00);")</span></li>
+                    <li class="list-group-item">Budget <span class="badge badge-dark">@NumberFormatInfo.CurrentInfo.CurrencySymbol @Model.Budget.Value.ToString("$ #,0.00;($ #,0.00);")</span></li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-8">
+            <div class="card">
+                <div class="card-header">
+                    CAST
+                </div>
+                @foreach (var cast in Model.Casts)
+                {
+                    <ul class="list-group list-group-horizontal">
+                        <li class="list-group-item col-1"><a asp-controller="Cast" asp-action="Details" asp-route-id="@cast.Id"><img src="@cast.ProfilePath" class="img-fluid" alt="@cast.Name" /></a></li>
+                        <li class="list-group-item col-4">@cast.Name</li>
+                        <li class="list-group-item col-7">@cast.Character</li>
+                    </ul>
+                }
+            </div>
+        </div>
+    </div>
+</div>

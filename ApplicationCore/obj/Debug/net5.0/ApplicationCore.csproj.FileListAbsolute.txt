@@ -1,0 +1,36 @@
+/Users/lbq/Projects/MovieShop/ApplicationCore/bin/Debug/net5.0/ApplicationCore.deps.json
+/Users/lbq/Projects/MovieShop/ApplicationCore/bin/Debug/net5.0/ApplicationCore.dll
+/Users/lbq/Projects/MovieShop/ApplicationCore/bin/Debug/net5.0/ref/ApplicationCore.dll
+/Users/lbq/Projects/MovieShop/ApplicationCore/bin/Debug/net5.0/ApplicationCore.pdb
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfo.cs
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.dll
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ref/ApplicationCore.dll
+/Users/lbq/Projects/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.pdb
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/bin/Debug/net5.0/ApplicationCore.deps.json
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/bin/Debug/net5.0/ApplicationCore.dll
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/bin/Debug/net5.0/ref/ApplicationCore.dll
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/bin/Debug/net5.0/ApplicationCore.pdb
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.AssemblyReference.cache
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfoInputs.cache
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfo.cs
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.CoreCompileInputs.cache
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.dll
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ref/ApplicationCore.dll
+C:/Users/Ty/source/repos/MovieShop/ApplicationCore/obj/Debug/net5.0/ApplicationCore.pdb
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/bin/Debug/net5.0/ApplicationCore.deps.json
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/bin/Debug/net5.0/ApplicationCore.dll
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/bin/Debug/net5.0/ref/ApplicationCore.dll
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/bin/Debug/net5.0/ApplicationCore.pdb
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.AssemblyInfo.cs
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.dll
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ref/ApplicationCore.dll
+/Users/lbq/RiderProjects/MovieShop 2/ApplicationCore/obj/Debug/net5.0/ApplicationCore.pdb

@@ -1,0 +1,114 @@
+
+<div class="container-fluid bg-dark" [style.backgroundImage]="'url('+ movie?.backdropUrl +')'">
+    <div class="row">
+        <div class="col-4">
+            <div class="row justify-content-end">
+                <div class="col-6">
+                    <img src="{{ movie?.posterUrl }}"
+                    alt="{{ movie?.title }}"
+                    class="card-img-top" />
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <h2>{{movie?.title}}</h2>
+            <span style="color:dimgrey">{{movie?.tagline}}</span>
+            <div class="container-fluid" style="color:gray;">
+                <div class="row">
+                    <div class="col-6">
+                        <h5>{{movie?.runTime}} m | {{movie?.releaseDate}}</h5>
+                    </div>
+                    <div class="col-6">
+                        <!-- <ng-container *ngFor="let g of movie?.genres">
+                            <a href="#"
+                               *ngIf="g"
+                               [routerLink]="['/movies/genres/', g?.id ]"
+                               class="badge badge-pill badge-dark ml-1"> {{g?.name}}</a>
+                          </ng-container> -->
+                    </div>
+                </div>
+            </div>
+
+            <span *ngIf="movie.rating >= 8" class="badge badge-success">
+                {{movie?.rating }}
+            </span>
+            <span *ngIf="movie.rating < 8 && movie.rating >= 7" class="badge badge-warning">
+                {{movie?.rating }}
+            </span>
+            <span *ngIf="movie.rating < 7" class="badge badge-danger">
+                {{movie?.rating }}
+            </span>
+
+           <br>
+          {{movie?.overview}}
+        </div>
+        <div class="col-2">
+            <br>
+            <!-- Use ngIf to -->
+            <a class="btn btn-outline-dark btn-light btn-lg btn-block btn-sm">
+                BUY ${{movie?.price}}
+            </a>
+            <a class="btn btn-outline-dark btn-light btn-lg btn-block btn-sm">
+                WATCH MOVIE
+            </a>
+     
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-4">
+            <div class="card" style="width: 25rem;">
+                <div class="card-header">
+                    MOVIE FACTS
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                      <i class="far fa-calendar-alt mr-2"></i>Release Date
+                      <span class="badge badge-pill badge-dark">{{movie?.releaseDate }}</span>
+                    </li>
+            
+                    <li class="list-group-item">
+                      <i class="fas fa-hourglass-half mr-2"></i>Run Time
+                      <span class="badge badge-pill badge-dark">{{movie?.runTime}} m</span>
+                    </li>
+                    <li class="list-group-item">
+                      <i class="far fa-money-bill-alt"></i> Box Office
+                      <span class="badge badge-pill badge-pill badge-dark"> {{movie?.revenue  }}</span>
+                    </li>
+            
+                    <li class="list-group-item">
+                      <i class="fas fa-dollar-sign mr-2"></i> Budget
+                      <span class="badge badge-pill badge-dark"> {{movie?.budget }}</span>
+                    </li>
+            
+                    <li class="list-group-item">
+                      <i class="fab fa-imdb"></i>
+            
+                      <a href="{{movie?.imdbUrl}}"
+                         class="text-dark ml-3"
+                         target="_blank"> <i class="fas fa-share-square mr-2"></i> </a>
+                    </li>
+            
+                  </ul>
+            
+            </div>
+        </div>
+        <div class="col-8">
+            <div class="card">
+                <div class="card-header">
+                    CAST
+                </div>
+                <tr *ngFor="let cast of movie?.casts">
+                    <ul class="list-group list-group-horizontal">
+                        <li class="list-group-item col-1"><img src="{{ cast?.profilePath }}"
+                            class="cast-small-img rounded-circle"
+                            alt="{{ cast?.name }}" width="" height="50"/></li>
+                        <li class="list-group-item col-4">{{cast.name}}</li>
+                        <li class="list-group-item col-7">{{cast.character}}</li>
+                    </ul>
+                </tr>
+            </div>
+        </div>
+    </div>
+</div>

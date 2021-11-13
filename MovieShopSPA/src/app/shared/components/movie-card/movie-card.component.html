@@ -1,0 +1,7 @@
+<div class = "card mb-4">
+    <!-- we need to navigate to localhost:4200/movies/1 -->
+    <!-- router link -->
+    <a [routerLink]="['/movies/', movieCard.id]">
+        <img src="{{movieCard.posterUrl}}" alt="{{movieCard.title}}" class="img-fluid rounded"/>
+    </a>
+</div>
